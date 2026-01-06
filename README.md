@@ -1,3 +1,4 @@
 # MotionAdapter
-Paper:[MotionAdapter: Video Motion Transfer via Content-Aware Attention Customization](https://arxiv.org/abs/2601.01955)
+Paper Link: [MotionAdapter: Video Motion Transfer via Content-Aware Attention Customization](https://arxiv.org/abs/2601.01955)
+
 Code: Coming Soon ...
